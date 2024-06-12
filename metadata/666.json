@@ -1,0 +1,43 @@
+{
+  "name": "Chipi #667",
+  "description": "Chipi #667 is one of the adorable miner cats in the Chipis collection. With its chubby cheeks and cool gear, it's ready for adventures in the digital world. This little cat is full of charm and ready to be your new friend.",
+  "image": "https://raw.githubusercontent.com/ChipiCoinNFT/public/main/images/666.svg",
+  "attributes": [
+    {
+      "trait_type": "Unique",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Face Mask"
+    },
+    {
+      "trait_type": "Off Hand",
+      "value": "Gold Ore"
+    },
+    {
+      "trait_type": "Main Hand",
+      "value": "Ruby Pickaxe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Heart Underwear"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    }
+  ]
+}

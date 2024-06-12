@@ -1,0 +1,43 @@
+{
+  "name": "Chipi #388",
+  "description": "Chipi #388 is one of the adorable miner cats in the Chipis collection. With its chubby cheeks and cool gear, it's ready for adventures in the digital world. This little cat is full of charm and ready to be your new friend.",
+  "image": "https://raw.githubusercontent.com/ChipiCoinNFT/public/main/images/387.svg",
+  "attributes": [
+    {
+      "trait_type": "Unique",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Off Hand",
+      "value": "Sandwich"
+    },
+    {
+      "trait_type": "Main Hand",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Protective Glasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Reflective Vest"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    }
+  ]
+}

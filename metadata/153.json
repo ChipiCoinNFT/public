@@ -1,0 +1,43 @@
+{
+  "name": "Chipi #154",
+  "description": "Chipi #154 is one of the adorable miner cats in the Chipis collection. With its chubby cheeks and cool gear, it's ready for adventures in the digital world. This little cat is full of charm and ready to be your new friend.",
+  "image": "https://raw.githubusercontent.com/ChipiCoinNFT/public/main/images/153.svg",
+  "attributes": [
+    {
+      "trait_type": "Unique",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Off Hand",
+      "value": "Sandwich"
+    },
+    {
+      "trait_type": "Main Hand",
+      "value": "Stone Pickaxe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "T-Shirt Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    }
+  ]
+}

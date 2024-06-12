@@ -1,0 +1,43 @@
+{
+  "name": "Chipi #300",
+  "description": "Chipi #300 is one of the adorable miner cats in the Chipis collection. With its chubby cheeks and cool gear, it's ready for adventures in the digital world. This little cat is full of charm and ready to be your new friend.",
+  "image": "https://raw.githubusercontent.com/ChipiCoinNFT/public/main/images/299.svg",
+  "attributes": [
+    {
+      "trait_type": "Unique",
+      "value": "Kenobi"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Off Hand",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Main Hand",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Unique"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Unique"
+    }
+  ]
+}

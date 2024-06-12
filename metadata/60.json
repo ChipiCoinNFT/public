@@ -1,0 +1,43 @@
+{
+  "name": "Chipi #61",
+  "description": "Chipi #61 is one of the adorable miner cats in the Chipis collection. With its chubby cheeks and cool gear, it's ready for adventures in the digital world. This little cat is full of charm and ready to be your new friend.",
+  "image": "https://raw.githubusercontent.com/ChipiCoinNFT/public/main/images/60.svg",
+  "attributes": [
+    {
+      "trait_type": "Unique",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Face Mask"
+    },
+    {
+      "trait_type": "Off Hand",
+      "value": "None"
+    },
+    {
+      "trait_type": "Main Hand",
+      "value": "Ruby Pickaxe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Protective Glasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange and Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Chipi #302",
+  "description": "Chipi #302 is one of the adorable miner cats in the Chipis collection. With its chubby cheeks and cool gear, it's ready for adventures in the digital world. This little cat is full of charm and ready to be your new friend.",
+  "image": "https://raw.githubusercontent.com/ChipiCoinNFT/public/main/images/301.svg",
+  "attributes": [
+    {
+      "trait_type": "Unique",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Off Hand",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Main Hand",
+      "value": "Metal Pickaxe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "T-Shirt Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shattered Blue"
+    }
+  ]
+}
